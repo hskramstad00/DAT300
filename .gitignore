@@ -219,3 +219,9 @@ __marimo__/
 
 #Droppe forelesningsmatriale
 Forelesning
+Assignments/CA1_template/mnist_data/
+
+# macOS
+__MACOSX/
+.DS_Store
+._*
