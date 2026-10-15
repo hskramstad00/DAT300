@@ -223,6 +223,8 @@ Forelesning
 # assignment data
 Assignments/CA1_template/mnist_data/
 Assignments/CA2/mnist_data/
+Assignments/CA3/data/
+
 # macOS
 __MACOSX/
 .DS_Store
