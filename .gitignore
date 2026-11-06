@@ -225,6 +225,9 @@ Assignments/CA1_template/mnist_data/
 Assignments/CA2/mnist_data/
 Assignments/CA3/data/
 
+# forelesning data
+Boka/CH8: Sentiment Analys/data
+
 # macOS
 __MACOSX/
 .DS_Store
